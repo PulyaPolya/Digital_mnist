@@ -66,5 +66,4 @@ confusion_mtx = tf.math.confusion_matrix(Y_true, Y_pred_classes)
 plt.figure(figsize=(10, 8))
 sns.heatmap(confusion_mtx, annot=True, fmt='g')
 plt.show()
-bbbb
 aaaaa
