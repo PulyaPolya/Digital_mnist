@@ -1,0 +1,15 @@
+FC loss: 0.0942 - acc: 0.9733 dropout, 10 loss: 0.1213 - acc: 0.9722, dropout 15 loss: 0.1120 - acc: 0.9751
+Dense 128 loss: 0.1699 - acc: 0.9769
+
+print(x_test.shape, y_test.shape) (10000, 28, 28, 1) (10000, 10)
+Fmnist, cnn:loss: 0.2550 - acc: 0.9116
+fmnist fnn - loss: 0.4115 - acc: 0.8653
+oss: 0.3904 - acc: 0.8733
+1 layer loss: 0.3731 - acc: 0.8780
+stolen architecture  5ms/step - loss: 0.3523 - acc: 0.8838
+
+ loss: 0.3500 - acc: 0.8761
+ loss: 0.3404 - acc: 0.8841
+30 epochs  loss: 0.3379 - acc: 0.8897
+ loss: 0.3311 - acc: 0.8985
+ 12ms/step - loss: 0.3389 - acc: 0.9004 50 epochs
